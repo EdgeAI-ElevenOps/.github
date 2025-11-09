@@ -21,12 +21,12 @@ Our mission: to build **AURA**, an **AI Co-Driver for Wellness and Alertness Reg
 
 ## 🧩 System Modules & Repositories
 
-| Module                                 | Description                                                     | Repository                                                                                       |
-| -------------------------------------- | --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
-| 👁️ **Vision Distraction Detection**   | Detects inattention, yawns, or eye-off-road using RGB-IR input  | [EdgeAI-ElevenOps/Fatigue-Prediction](https://github.com/EdgeAI-ElevenOps/Distraction-Detection) |
-| 💬 **Conversational AURA AI**         | Empathetic voice interface for driver wellness dialogue         | [EdgeAI-ElevenOps/Conversational-AI](https://github.com/EdgeAI-ElevenOps/Conversational-AI)      |
-| 🌐 **Sensor & IoT Integration**       | Streams grip, steering torque, and HRV data via CAN & BLE       | *[Coming Soon]*                                                                                  |
-| 🧍‍♂️ **Fatigue Prediction**             | Real-time temporal AI model for fatigue and stress forecasting  | *[Coming Soon]*                                                                                  |
+| Module                                 | Description                                                                              | Repository                                                                                       |
+| -------------------------------------- | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| 👁️ **Vision Distraction Detection**   | Detects inattention, yawns, or eye-off-road using RGB-IR input                           | [EdgeAI-ElevenOps/Fatigue-Prediction](https://github.com/EdgeAI-ElevenOps/Distraction-Detection) |
+| 💬 **Conversational AURA AI**         | Empathetic voice interface for driver wellness dialogue                                  | [EdgeAI-ElevenOps/Conversational-AI](https://github.com/EdgeAI-ElevenOps/Conversational-AI)      |
+| 🌐 **Sensor & IoT Integration**       | Streams grip, steering torque, and HRV data using SOME/IP Protocol / CAN Bus Protocol    | *[Coming Soon]*                                                                                  |
+| 🧍‍♂️ **Fatigue Prediction**             | Real-time temporal AI model for fatigue and stress forecasting                           | *[Coming Soon]*                                                                                  |
 
 ---
 
@@ -36,7 +36,7 @@ Our mission: to build **AURA**, an **AI Co-Driver for Wellness and Alertness Reg
 | ------------------------------ | ----------------------------------------------------------------------------- |
 | **AI/ML**                      | PyTorch · TensorFlow Lite · ONNX Runtime · Quantization · TensorRT            |
 | **Vision & Signal Processing** | OpenCV · MediaPipe · RGB-IR Camera · Steering & Grip Sensors · Smartwatch HRV |
-| **Edge Deployment**            | Jetson Nano · Snapdragon Ride · Docker · MQTT · BLE/CAN Bus                   |
+| **Edge Deployment**            | Jetson Nano · Snapdragon Ride · Docker · MQTT · CAN Bus                   |
 | **Interface & Control**        | React / Streamlit Dashboard · gTTS / ElevenLabs TTS · Arduino / ESP32 modules |
 
 ---
