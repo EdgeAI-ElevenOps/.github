@@ -1,15 +1,15 @@
-# 👋 Welcome to **Team ElevenOps**
+# Welcome to **Team ElevenOps**
 
 We are **Team ElevenOps** from [IIIT Delhi](https://www.iiitd.ac.in) — a multidisciplinary team combining expertise in **Multimodal AI**, **Computer Vision**, and **Interactive Systems Design**.
 Our mission: to build **AURA**, an **AI Co-Driver for Wellness and Alertness Regulation**, as part of [Volkswagen’s i.mobilothon 5.0](https://vision.hack2skill.com/event/imobilothon-5).
 
 ---
 
-## 🚗 AURA — The AI Co-Driver for Wellness & Alertness
+##  AURA — The AI Co-Driver for Wellness & Alertness
 
 **AURA** transforms every vehicle into a *mindful co-pilot* — predicting fatigue, sensing stress, and restoring driver focus using adaptive, privacy-preserving intelligence.
 
-### 🧠 Core Capabilities
+### Core Capabilities
 
 * **Multi-Sensor Fusion:** Integrates vision, steering, grip, and HRV data for robust predictions.
 * **Human-Centric Interventions:** Uses **light, scent, and empathetic voice cues** to re-engage drivers calmly.
@@ -19,18 +19,18 @@ Our mission: to build **AURA**, an **AI Co-Driver for Wellness and Alertness Reg
 
 ---
 
-## 🧩 System Modules & Repositories
+## System Modules & Repositories
 
 | Module                                 | Description                                                                              | Repository                                                                                       |
 | -------------------------------------- | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
 | 👁️ **Vision Distraction Detection**   | Detects inattention, yawns, or eye-off-road using RGB-IR input                           | [EdgeAI-ElevenOps/Fatigue-Prediction](https://github.com/EdgeAI-ElevenOps/Distraction-Detection) |
 | 💬 **Conversational AURA AI**         | Empathetic voice interface for driver wellness dialogue                                  | [EdgeAI-ElevenOps/Conversational-AI](https://github.com/EdgeAI-ElevenOps/Conversational-AI)      |
-| 🌐 **Sensor & IoT Integration**       | Streams grip, steering torque, and HRV data using SOME/IP Protocol / CAN Bus Protocol    | *[Coming Soon]*                                                                                  |
+| 🌐 **Sensor & IoT Integration**       | Streams grip, steering torque, and HRV data using SOME/IP Protocol / CAN Bus Protocol    | [EdgeAI-ElevenOps/IoT-based-simulation](https://github.com/EdgeAI-ElevenOps/IoT-based-Simulation/settings)                                                                   |
 | 🧍‍♂️ **Fatigue Prediction**             | Real-time temporal AI model for fatigue and stress forecasting                           | *[Coming Soon]*                                                                                  |
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 | Domain                         | Tools & Frameworks                                                            |
 | ------------------------------ | ----------------------------------------------------------------------------- |
@@ -41,7 +41,7 @@ Our mission: to build **AURA**, an **AI Co-Driver for Wellness and Alertness Reg
 
 ---
 
-## 🌟 Unique Value
+## Unique Value
 
 1. **Multi-Sensory Regulation** — adaptive cues enhance focus without stress.
 2. **Privacy-Preserving Edge AI** — no external data transmission.
@@ -51,7 +51,7 @@ Our mission: to build **AURA**, an **AI Co-Driver for Wellness and Alertness Reg
 
 ---
 
-## 👨‍💻 The Team
+## The Team
 
 | Name                                                  | Role / Expertise                     | GitHub |
 | ----------------------------------------------------- | ------------------------------------ | ------ |
@@ -62,6 +62,6 @@ Our mission: to build **AURA**, an **AI Co-Driver for Wellness and Alertness Reg
 
 ---
 
-## 💡 Vision
+##  Vision
 
 > “To redefine driver safety and comfort by building intelligent, empathetic, and privacy-first in-vehicle companions.”
