@@ -11,22 +11,22 @@ Our mission: to build **AURA**, an **AI Co-Driver for Wellness and Alertness Reg
 
 ### 🧠 Core Capabilities
 
-* **Predictive Fatigue Modeling:** Transformer–LSTM network forecasts fatigue **3–5 minutes in advance**.
 * **Multi-Sensor Fusion:** Integrates vision, steering, grip, and HRV data for robust predictions.
 * **Human-Centric Interventions:** Uses **light, scent, and empathetic voice cues** to re-engage drivers calmly.
 * **Edge-First Privacy:** All analytics run locally on Jetson Nano / Snapdragon Ride — **no cloud data leakage**.
 * **Self-Learning Personalization:** Adapts to each driver’s behavior, reducing false alerts over time.
+* **Predictive Fatigue Modeling:** Transformer–LSTM network forecasts fatigue **3–5 minutes in advance**. *[Coming Soon]*
 
 ---
 
 ## 🧩 System Modules & Repositories
 
-| Module                               | Description                                                    | Repository                                                                                    |
-| ------------------------------------ | -------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| 🧍‍♂️ **Fatigue Prediction**         | Real-time temporal AI model for fatigue and stress forecasting | [EdgeAI-ElevenOps/Fatigue-Prediction](https://github.com/EdgeAI-ElevenOps/Fatigue-Prediction) |
-| 💬 **Conversational AURA AI**        | Empathetic voice interface for driver wellness dialogue        | [EdgeAI-ElevenOps/Conversational-AI](https://github.com/EdgeAI-ElevenOps/Conversational-AI)   |
-| 👁️ **Vision Distraction Detection** | Detects inattention, yawns, or eye-off-road using RGB-IR input | *[Coming Soon]*                                                                               |
-| 🌐 **Sensor & IoT Integration**      | Streams grip, steering torque, and HRV data via CAN & BLE      | *[Coming Soon]*                                                                               |
+| Module                                 | Description                                                     | Repository                                                                                       |
+| -------------------------------------- | --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| 👁️ **Vision Distraction Detection**   | Detects inattention, yawns, or eye-off-road using RGB-IR input  | [EdgeAI-ElevenOps/Fatigue-Prediction](https://github.com/EdgeAI-ElevenOps/Distraction-Detection) |
+| 💬 **Conversational AURA AI**         | Empathetic voice interface for driver wellness dialogue         | [EdgeAI-ElevenOps/Conversational-AI](https://github.com/EdgeAI-ElevenOps/Conversational-AI)      |
+| 🌐 **Sensor & IoT Integration**       | Streams grip, steering torque, and HRV data via CAN & BLE       | *[Coming Soon]*                                                                                  |
+| 🧍‍♂️ **Fatigue Prediction**             | Real-time temporal AI model for fatigue and stress forecasting  | *[Coming Soon]*                                                                                  |
 
 ---
 
@@ -43,22 +43,22 @@ Our mission: to build **AURA**, an **AI Co-Driver for Wellness and Alertness Reg
 
 ## 🌟 Unique Value
 
-1. **Predictive Wellness** — anticipates fatigue *before* micro-sleep.
-2. **Multi-Sensory Regulation** — adaptive cues enhance focus without stress.
-3. **Privacy-Preserving Edge AI** — no external data transmission.
-4. **Scalable Integration** — plug-and-play for fleets and OEMs.
-5. **Human-Centric Design** — your car becomes a calm co-pilot, not a noisy alert system.
+1. **Multi-Sensory Regulation** — adaptive cues enhance focus without stress.
+2. **Privacy-Preserving Edge AI** — no external data transmission.
+3. **Scalable Integration** — plug-and-play for fleets and OEMs.
+4. **Human-Centric Design** — your car becomes a calm co-pilot, not a noisy alert system.
+5. **Predictive Wellness** — anticipates fatigue *before* micro-sleep. *[Coming Soon]*
 
 ---
 
 ## 👨‍💻 The Team
 
-| Name                                                  | Role / Expertise                   | GitHub |
-| ----------------------------------------------------- | ---------------------------------- | ------ |
-| [Armaan Singh](https://github.com/aturtle4)           | Multimodal AI & Edge Integration   | 🧠     |
-| [Vikranth Udandarao](https://github.com/Vikranth3140) | Team Lead · Vision & HCI Systems   | 🚀     |
-| [Tharun Harish](https://github.com/Tharun-Ninja)      | Conversational AI & UX Design      | 💬     |
-| [Akshat Parmar](https://github.com/akshatparmar2634)  | IoT Systems & Hardware Integration | 🔧     |
+| Name                                                  | Role / Expertise                     | GitHub |
+| ----------------------------------------------------- | ------------------------------------ | ------ |
+| [Armaan Singh](https://github.com/aturtle4)           | IoT Systems & Hardware Integration   | 🧠     |
+| [Vikranth Udandarao](https://github.com/Vikranth3140) | Conversational AI & Edge Integration | 💬     |
+| [Tharun Harish](https://github.com/Tharun-Ninja)      | Multimodal AI & UX Design            | 🚀     |
+| [Akshat Parmar](https://github.com/akshatparmar2634)  | Vision & Multimodal AI               | 🔧     |
 
 ---
 
